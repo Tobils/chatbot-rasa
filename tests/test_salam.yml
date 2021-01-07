@@ -1,0 +1,8 @@
+
+stories:
+- story: tobil
+  steps:
+  - user: |
+      assalamualaikum
+    intent: salam
+  - action: action_hello_world

@@ -1,0 +1,7 @@
+version: "2.0"
+
+nlu:
+- intent: salam
+  examples: |
+    - assalamualaikum
+    - sawadikap

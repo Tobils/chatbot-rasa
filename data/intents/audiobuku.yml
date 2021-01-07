@@ -1,0 +1,8 @@
+version: "2.0"
+
+nlu:
+- intent: audiobuku
+  examples: |
+    - bacakan audiobuku
+    - cariin buku
+    - putarin audiobuku
